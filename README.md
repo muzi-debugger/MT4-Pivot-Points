@@ -7,11 +7,15 @@ A pivot point and its support/resistance levels are areas at which the direction
 
 
 ## How To Use The Code
-Open the MetaEditor in MetaTrader 4 (Tools > MetaQuotes Language Editor).
-This will show a popup, select Custom Indicator > OnCalculate > Finish
-Create a new Indicator file (File > New > Custom Indicator)
-Clone the repo > copy paste in the editor > save > compile
-Return to MT4 > indicators > Custom > Select the created indicator 
+* Open the MetaEditor in MetaTrader 4 (Tools > MetaQuotes Language Editor).
+
+* This will show a popup, select Custom Indicator > OnCalculate > Finish
+
+* Create a new Indicator file (File > New > Custom Indicator)
+
+* Clone the repo > copy paste in the editor > save > compile
+
+* Return to MT4 > indicators > Custom > Select the created indicator 
 
 This will now show pivot points on your chart simplifying the need to manually insert support and resistance levels.
 There is much more that I intend to do with this, however, for the sake of making my offering free I have decided to showcase the simplified solution on my public GitHub repo. Enjoy!
